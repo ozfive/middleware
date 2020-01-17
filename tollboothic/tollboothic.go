@@ -4,7 +4,7 @@ package tollboothic
 import (
 	"github.com/didip/tollbooth"
 	"github.com/didip/tollbooth/limiter"
-	"github.com/kataras/iris/v12/context"
+	"github.com/kataras/iris/context"
 )
 
 // LimitHandler is a middleware that performs
